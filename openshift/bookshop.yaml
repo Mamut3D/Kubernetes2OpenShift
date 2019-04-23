@@ -95,4 +95,4 @@ objects:
     wildcardPolicy: None
 parameters:
 - name: COLOR
-  value: blue
+  value: red
